@@ -1,0 +1,182 @@
+[
+    {
+        "bookingId": "1",
+        "user":"Brooklyn Simmons",
+        "location":"Lennox mall",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "2",
+        "user":"Jenny Wilson",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "3",
+        "user":"Devon Lane",
+        "location":"Yaba",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "4",
+        "user":"Arlene McCoy",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "5",
+        "user":"Annette Black",
+        "location":"Lennox mall",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "6",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "7",
+        "user":"Jerome Bell",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "8",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "9",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "10",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "11",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "12",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "13",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "14",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "15",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "16",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "17",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "18",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "19",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    },
+    {
+        "bookingId": "20",
+        "user":"Jacob Jones",
+        "location":"Chevron",
+        "plan":"Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+    }
+]

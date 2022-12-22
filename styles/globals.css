@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("/fonts/Satoshi-Regular.woff") format("woff");
+  font-weight: 400;
+  /* font-display: swap; */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("/fonts/Satoshi-Light.woff") format("woff");
+  font-weight: 300;
+  /* font-display: swap; */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("/fonts/Satoshi-Medium.woff") format("woff");
+  font-weight: 500;
+  /* font-display: swap; */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("/fonts/Satoshi-Bold.woff") format("woff");
+  font-weight: 700;
+  /* font-display: swap; */
+  font-style: normal;
+}
+
+@layer base {
+  body {
+    @apply min-h-screen font-light overflow-x-hidden font-satoshi;
+  }
+   
+
+  label {
+    @apply cursor-pointer;
+  }
+
+  * {
+    @apply font-satoshi font-normal;
+  }
+  h1 {
+    @apply text-3xl font-bold md:text-4xl;
+  }
+  h2 {
+    @apply text-2xl font-bold md:text-3xl;
+  }
+  h3 {
+    @apply text-xl font-bold md:text-2xl;
+  }
+
+  h4 {
+    @apply text-lg font-semibold md:text-xl;
+  }
+
+  h5 {
+    @apply text-base font-semibold md:text-lg;
+  }
+
+  h6 {
+    @apply text-sm font-semibold;
+  }
+
+  thead th:nth-child(-n+1){
+    @apply rounded-tl-2xl
+  }
+
+  thead th:nth-last-child(-n+1){
+    @apply rounded-tr-2xl
+  }
+
+  input{
+    @apply placeholder-[#B6B9C7]  
+  }
+  
+}
+
+@layer components {
+    .btnMain {
+       @apply text-white rounded-md inline-flex items-center justify-center text-center px-9 py-3 font-normal text-base bg-app
+    }
+}
+
+.menu-button{
+  @apply rounded-full border border-white bg-app bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75
+}
+.menu-items{
+  @apply absolute right-0 mt-2 w-56 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none
+}
+
+
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+.ql-editor {
+  min-height: 300px;
+  background-color: white;
+}
+.ql {
+  border-radius: 20px;
+}

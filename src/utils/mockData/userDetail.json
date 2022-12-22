@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "1",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "signedUp": "2022-07-24T05:22:13.000Z",
+    "name": "Kolade Chukwunyem",
+    "emailAddress": "KoladeC@gmail.com",
+    "totalBooking": 23,
+    "totalAmountOfBookings": 50000,
+    "totalAmountOfCafeOrder": 1500,
+    "bookings": [
+      {
+        "bookingId": "1",
+        "bookingDate": "2022-07-24T05:22:13.000Z",
+        "Status": "Pending",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1
+      },
+      {
+        "bookingId": "2",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "3",
+        "location": "Yaba",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "4",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "5",
+        "location": "Lennox mall",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "6",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "7",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "8",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "9",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Completed",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      },
+      {
+        "bookingId": "10",
+        "location": "Chevron",
+        "plan": "Weekly",
+        "seats": 1,
+        "status": "Pending",
+        "bookingDate": "2022-07-24T05:22:13.000Z"
+      }
+    ]
+  }
+]

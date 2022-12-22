@@ -1,0 +1,108 @@
+
+.table {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.table tbody
+{
+    
+  background: #fff;
+}
+
+.table tr,.table td,.table th {
+  background-color: transparent;
+  border: none;
+}
+
+.table td,.table th {
+ text-align: start;
+}
+
+@media screen and (min-width:650px) {
+    .table td:not(:last-of-type),.table th {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .table td:nth-of-type(4),.table th:nth-of-type(4),
+    .table td:nth-of-type(3),.table th:nth-of-type(3){
+        width: 70px;
+        padding-left:5% ;
+        padding-right:5% ;
+
+    }
+
+    
+}
+
+
+@media screen and (min-width:1500px) {
+    .table td:nth-of-type(4),.table th:nth-of-type(4),
+    .table td:nth-of-type(3),.table th:nth-of-type(3){
+        width: auto;
+        padding-left:5% ;
+        padding-right:5% ;
+
+    }
+
+    
+}
+
+
+.table thead th:first-child {
+border-top-left-radius: 24px;
+overflow: hidden;
+}
+
+
+.table thead th:last-child {
+border-top-right-radius: 24px;
+overflow: hidden;
+}
+
+
+
+@media screen and (max-width: 640px) {
+  
+  .table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  .table tr {
+    display: block;
+    margin-bottom: .625em;
+    border-bottom: 1px solid #ddd;
+
+  }
+
+    .table tr:last-of-type {
+    border:none
+
+  }
+  
+  .table td {
+    display: block;
+    text-align: right;
+  }
+  
+  .table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+
+}
